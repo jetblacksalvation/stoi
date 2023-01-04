@@ -13,7 +13,7 @@ int stoi(int len, char *str){
         ret += temp;
     }
 
-    return 0 ;
+    return ret;
 }
 
 int main(void){
